@@ -1,13 +1,3 @@
-{
-  "compilerOptions": {
-    "target": "esnext",
-    "module": "esnext",
-    "moduleResolution": "node",
-    "strict": true,
-    "baseUrl": ".",
-    "paths": {
-      "@/*": ["./*"]
-    }
-  },
-  "exclude": ["node_modules", ".nuxt", "dist"]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c44ec0751e254252bdc3e90b9217e53a97ad96ee72d590842225e54c146d14d
+size 241
